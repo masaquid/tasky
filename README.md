@@ -145,10 +145,6 @@ function isTargetStatus(status) {
 - REPORT_EMAILの設定を確認
 - GASの実行権限を確認
 
-## 📝 ライセンス
-
-MIT License
-
 ## 🤝 コントリビューション
 
 このプロジェクトは個人用として作成されていますが、改善提案やバグ報告は歓迎します。
